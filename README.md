@@ -15,4 +15,4 @@ Debugging DARE is a web platform that provides an IDE-based debugging environmen
 ##  Author
 
 **Gayathri G**  
-![GitHub](https://github.com/GAYATHRI1006)
+[GitHub](https://github.com/GAYATHRI1006)
